@@ -1,0 +1,9 @@
+[submodule "ace-apresentacao"]
+	path = ace-apresentacao
+	url = git@github.com:DiegoAscanio/ace-apresentacao.git
+[submodule "ace-aula-01"]
+	path = ace-aula-01
+	url = git@github.com:DiegoAscanio/ace-aula-01.git
+[submodule "ace-aula-02"]
+	path = ace-aula-02
+	url = git@github.com:DiegoAscanio/ace-aula-02.git
