@@ -1,0 +1,112 @@
+Análise de Circuitos Elétricos
+
+Professor: M.Sc Diego Ascânio Santos (ascanio@cefetmg.br)
+
+OBJETIVOS:
+
+Desenvolver habilidades para aplicar as diversas técnicas para análise de circuitos elétricos, identificar, formular e resolver problemas, buscando:
+
+-Compreender as leis fundamentais para análise de circuitos
+-Estudar e aplicar técnicas para a resolução de circuitos CC e CA
+-Analisar a resposta de circuitos de primeira e segunda ordem
+-Estudar os conceitos para a determinação da potência em circuitos CA
+-Estudar Quadripolos e suas aplicações.
+
+Módulos:
+
+I - Conceitos Básicos, Circuitos Resistivos, Técnicas de Análise de Circuitos.
+
+Conceitos Básicos:
+-Grandezas básicas: Carga elétrica, corrente elétrica, tensão elétrica, potência e energia
+-Elementos de circuitos: fontes de tensão e de corrente independentes e dependentes, resistência elétrica, modelo de circuito elétrico.
+
+Circuitos Resistivos:
+-Lei de Ohm
+-Leis de Kirchhoff
+-Circuitos divisores de tensão e divisores de corrente
+-Medição de resistência – ponte de Wheatstone
+-Circuitos Equivalentes (Transformação Y-Delta)
+
+Técnicas de Análise de circuitos:
+-Análise Nodal e de Laço com fontes independentes e dependentes
+-Equivalência e Linearidade
+-Superposição
+-Teoremas de Thévenin e de Norton
+-Máxima Transferência de Potência
+
+
+II - Capacitância e Indutância, Circuitos de Primeira Ordem, Circuitos de Segunda Ordem.
+
+Capacitância e Indutância
+-Comportamento de Capacitores (Tensão, corrente, potência e energia)
+-Comportamento de Indutores (Tensão, corrente, potência e energia)
+
+Circuitos de Primeira Ordem
+-Resposta natural de circuitos RL e RC
+-Resposta ao degrau de circuitos RL e RC
+-Forma geral das equações de resposta
+
+Circuitos de Segunda Ordem
+-Resposta natural de um circuito RLC em paralelo
+-Resposta natural RLC paralelo: tipos de amortecimento
+-Resposta a um degrau circuito RLC paralelo
+-Resposta natural e a um degrau em circuito RLC série
+
+III - Análise Senoidal, Filtros, Análise da Potência e Quadripolos
+
+Análise Senoidal
+-Corrente Alternada
+-Senóides e Fasores
+-Impedância e Admitância.
+-Análise em Regime Estacionário Senoidal
+-Leis de Kirchhoff no Domínio da Frequência
+-Análise de Malhas e Análise Nodal em circuitos CA
+
+Filtros
+-Função de Transferência
+-Decibel
+-Resposta em Frequência
+-Ressonância
+--Ressonância em Série
+--Ressonância Paralela
+-Filtro Passa-Baixas
+-Filtro Passa-Altas
+-Filtro Passa-Faixa
+-Filtro Rejeita-Faixa
+
+Análise da Potência
+-Potência Instantânea e Média
+-Valor RMS ou Eficaz
+-Potência Complexa
+-Fator de Potência
+-Correção do Fator de Potência
+-Máxima Transferência de Potência
+
+Quadripolos
+-Transformadores
+-Pontes Retificadoras
+-Amplificadores Operacionais
+
+Bibliografia:
+1. NILSSON, J.W.; RIEDEL, S.A. Circuitos Elétricos. 8a Edição. Editora: Pearson, 2009.
+2. BOYLESTAD, R. L. Introdução à Análise de Circuitos. 12a Edição. Editora: Pearson, 2012.
+3. MARIOTTO, Paulo A. Análise de circuitos. 1a edição. Editora: Pearson, 2002.
+
+Atividades Avaliativas: 
+3 atividades avaliativas de 25 pontos, uma atividade avaliativa substitutiva de ausência (ou pior nota) de 25 pontos. (Total 75 pontos)
+25 Pontos de listas de exercícios.
+5 pontos extras distribuídos proporcionalmente à performance das atividades avaliativas.
+
+Organização padrão dos ciclos de aulas presenciais, remotas e/ou híbridas:
+
+Aula expositiva (100 a 200 minutos)
+Aula revisiva (0 a 50 minutos)
+Atividade avaliativa (50 a 10080 minutos)
+
+Moodle da disciplina (canal para troca de mensagens, postagem de atividades avaliativas remotas, esclarecimento de dúvidas, dentre outros): https://ava.cefetmg.br/course/view.php?id=1119
+Chave de inscrição: aK88z5#4
+
+Não autorizo quaisquer contatos comigo que excedam os meios supracitados (e-mail institucional, moodle da disciplina e eventual conta no Telegram), exceto o contato interpessoal no âmbito das áreas físicas pertencentes ao Centro Federal de Educação Tecnológica de Minas Gerais [1] e contatos excepcionais expressamente autorizados por mim.
+Sem considerações ulteriores,
+
+M.Sc Diego Ascânio Santos, professor de Análise de Circuitos Elétricos - DIGDDV - CEFET-MG.

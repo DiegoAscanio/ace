@@ -1,0 +1,20 @@
+Listas de Exercício
+
+Lista 1 - Conceitos Básicos - Entrega: 15/08/2023 - Valor: 25/11 pontos
+Lista 2 - Circuitos Resistivos - Entrega: 15/08/2023 - Valor: 25/11 pontos
+Lista 3 - Técnicas de Análise de circuitos (Y-Delta, Kirchhoff, Análise Nodal, Análise de Malhas) - Entrega: 22/08/2023 - Valor: 25/11 pontos
+Lista 4 - Técnicas de Análise de circuitos (Linearidade e Superposição, Transformação de Fontes, Thévenin e Norton, Máxima Transferência de Potência)- Entrega: 29/08/2023 - Valor: 25/11 pontos
+Lista 5 - Capacitância e Indutância - Entrega: 12/09/2023 - Valor: 25/11 pontos
+Lista 6 - Circuitos de Primeira Ordem - Entrega: 19/09/2023 - Valor: 25/11 pontos
+Lista 7 - Circuitos de Segunda Ordem - Entrega: 26/09/2023 - Valor: 25/11 pontos
+Lista 8 - Análise Senoidal - Entrega: 07/11/2023 - Valor: 25/11 pontos
+Lista 9 - Filtros - Entrega: 14/11/2023 - Valor: 25/11 pontos
+Lista 10 - Análise de Potência - Entrega: 21/11/2023 - Valor: 25/11 pontos
+Lista 11 - Quadripolos - Entrega: 27/11/2023 - Valor: 25/11 pontos
+
+Atividades Avaliativas
+
+Atividade Avaliativa 1 - Terça-Feira 29/08/2023 (Módulo I) (25 pontos)
+Atividade Avaliativa 2 - Terça-Feira 17/10/2023 (Módulo II) (25 pontos)
+Atividade Avaliativa 3 - Segunda-Feira 27/11/2023 (Módulo III) (25 pontos)
+Atividade Avaliativa 4 - Terça-Feira  28/11/2023 (Atividade Substitutiva) (25 pontos)
