@@ -1,0 +1,7 @@
+Plano da Aula 4
+
+-Introdução - ressaltar a importância da simplificação de circuitos para facilitar análises
+-Apresentar o roteiro:
+	-Simplificação de circuitos por transformações de fontes
+	-Simplificação de circuitos pelo teorema de Thévenin
+	-Simplificação de circuitos pelo teorema de Norton

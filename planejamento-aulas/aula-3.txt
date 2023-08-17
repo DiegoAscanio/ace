@@ -1,0 +1,13 @@
+Plano da Aula 3
+
+-Apresentação instrumentos de medida das grandezas elétricas de tensão, corrente e resistência (ver resumo cap. 3):
+	-Voltímetro (Tensão)
+	-Amperímetro (Corrente)
+	-Ohmímetro (Resistência)
+	-Multímetro (Mede esses e mais uns outros)
+-Terminações e nomenclaturas (tabela 4.1 riedel 10 ed)
+-Revisão das Leis de Kirchoff da Tensão e da Corrente
+-Análise de Circuitos pelas leis de kirchoff das tensões nas malhas e das correntes nos nós.
+	- Construção de sistemas de equações de corrente à partir das leis de kirchoff
+	- Representação do sistemas de equações de corrente na sua forma matricial
+	- Resolução do sistemas de equações de correntes pela sua forma matricial através do simpy / numpy

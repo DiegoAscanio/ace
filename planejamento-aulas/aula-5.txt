@@ -1,0 +1,10 @@
+Plano da aula 5
+
+O plano é Estudar os assuntos abaixo e elaborar uma aula sobre eles:
+
+-Máxima transferência de potência
+	-Técnica usada para calcular o valor máximo de potência (p) que pode ser fornecido a uma carga resistiva R_L
+
+-Linearidade e Superposição
+	-Técnica usada para descobrir - sintetizar - respostas em um circuito que não poderiam ser obtidas por circuitos com uma única fonte.
+
