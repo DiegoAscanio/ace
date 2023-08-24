@@ -1,5 +1,6 @@
 Plano da Aula 3
 
+-Divisor de correntes (aula 2)
 -Terminações e nomenclaturas (tabela 4.1 riedel 10 ed)
 -Malha
 -Nós
