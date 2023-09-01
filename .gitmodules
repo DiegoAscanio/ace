@@ -13,3 +13,6 @@
 [submodule "jupyterlite"]
 	path = jupyterlite
 	url = https://github.com/DiegoAscanio/jupyterlite
+[submodule "ace-atividade-avaliativa-1"]
+	path = ace-atividade-avaliativa-1
+	url = git@github.com:DiegoAscanio/ace-atividade-avaliativa-1.git
