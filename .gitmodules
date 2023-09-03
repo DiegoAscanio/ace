@@ -16,3 +16,6 @@
 [submodule "ace-atividade-avaliativa-1"]
 	path = ace-atividade-avaliativa-1
 	url = git@github.com:DiegoAscanio/ace-atividade-avaliativa-1.git
+[submodule "ace-aula-04"]
+	path = ace-aula-04
+	url = git@github.com:DiegoAscanio/ace-aula-04.git
