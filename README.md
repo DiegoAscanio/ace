@@ -9,3 +9,4 @@
 - [Aula 02](https://diegoascanio.github.io/ace-aula-02/)
 - [Aula 03](https://diegoascanio.github.io/ace-aula-03/)
 - [Atividade Avaliativa 1](https://diegoascanio.github.io/ace-atividade-avaliativa-1)
+- [Aula 04](https://diegoascanio.github.io/ace-aula-04/)
