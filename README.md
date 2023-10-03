@@ -11,6 +11,7 @@
 - [Atividade Avaliativa 1](https://diegoascanio.github.io/ace-atividade-avaliativa-1)
 - [Aula 04](https://diegoascanio.github.io/ace-aula-04/)
 - [Aula 05](https://diegoascanio.github.io/ace-aula-05/)
+- [Aula 06](https://diegoascanio.github.io/ace-aula-06/)
 
 ---
 
