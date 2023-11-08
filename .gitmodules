@@ -28,3 +28,6 @@
 [submodule "ace-aula-07"]
 	path = ace-aula-07
 	url = https://github.com/diegoAscanio/ace-aula-07
+[submodule "ace-aula-08"]
+	path = ace-aula-08
+	url = git@github.com:DiegoAscanio/ace-aula-08.git
