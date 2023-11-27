@@ -13,6 +13,7 @@
 - [Aula 05](https://diegoascanio.github.io/ace-aula-05/)
 - [Aula 06](https://diegoascanio.github.io/ace-aula-06/)
 - [Aula 07](https://diegoascanio.github.io/ace-aula-07/)
+- [Aula 08](https://diegoascanio.github.io/ace-aula-08/)
 
 ---
 
